@@ -1,2 +1,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakkkimaru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolenka8&show_icons=true&theme=cobalt)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyakkkimaru&show_icons=true&theme=cobalt)
