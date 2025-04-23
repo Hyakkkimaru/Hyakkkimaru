@@ -15,9 +15,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Hyakkkimaru&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyakkkimaru&theme=react&hide_border=true" alt="GitHub Streak Stats" width="400" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </td>
-      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyakkkimaru&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
       </td>
     </tr>
